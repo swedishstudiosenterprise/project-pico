@@ -1,8 +1,7 @@
 ## Todo List
-* SHA4 Encryption
+* Encryption Methods
   * RSA-4096 Encryption
   * SHA3-512 Encryption
-  * ECC-256 Encryption
-  * AES-256 Encryption
+  * ECC Encryption
   * Zero-Trust Encryption
 * 
